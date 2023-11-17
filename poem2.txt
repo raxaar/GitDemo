@@ -1,0 +1,19 @@
+In the classroom's sanctuary, where Git's tale begins,
+A recitation unfolds, a symphony of wins.
+With "git init," the overture commences,
+A versioned journey, where code dispenses.
+
+Branches branch out like poetic lines,
+In the syntax of Git, where wisdom intertwines.
+Commits scribe stories on the digital scroll,
+In the recitation's rhythm, where insights enroll.
+
+Merge conflicts surface, a plot twist unfolds,
+Resolved with finesse, as the coding story molds.
+"Push" for progress, a collaborative song,
+In the Git recitation, where learners belong.
+
+"Pull" the strands of understanding near,
+In the dance of commands, let the essence clear.
+So, in this coding ballad, let knowledge cascade,
+In the recitation's embrace, where Git's serenade.
