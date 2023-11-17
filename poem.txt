@@ -1,0 +1,19 @@
+In the realm of code, where Git commands sway,
+A recitation unfolds, guiding minds in the play.
+With "git clone," we embark on a journey profound,
+A synchronized dance, where knowledge is crowned.
+
+Branches intertwine, like verses aligned,
+In the language of Git, a story enshrined.
+Commits mark progress, a coder's art,
+In the recitation's rhythm, where skills impart.
+
+Merge conflicts arise, a dramatic twist,
+Navigated with finesse, in the coder's tryst.
+"Push" for collaboration, a collective cheer,
+In the Git recitation, understanding draws near.
+
+"Pull" the threads of wisdom, weave a tale,
+In the dance of commands, where knowledge prevails.
+So, let the classroom echo with Git's grace,
+In the recitation's embrace, we all find our place.
