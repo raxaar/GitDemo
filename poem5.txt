@@ -1,0 +1,19 @@
+In the classroom's spotlight, where Git scripts unfold,
+A recitation begins, stories to be told.
+With "git clone," the curtain rises high,
+A play of branches, reaching for the sky.
+
+Branches intertwine, a poetic ballet,
+In Git's syntax, where coders find their way.
+Commits etch verses on the digital stage,
+In the recitation's rhythm, wisdom takes center stage.
+
+Merge conflicts surface, a plot twist to weave,
+Resolved with finesse, in the coder's reprieve.
+"Push" for progress, a collective refrain,
+In the Git recitation, where knowledge is gained.
+
+"Pull" together, in a harmonious dance,
+In the orchestra of commands, a coder's chance.
+Let the classroom resonate, in Git's embrace,
+In the recitation's rhythm, where coding finds its grace.
