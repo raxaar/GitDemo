@@ -1,0 +1,19 @@
+In the classroom's canvas, where Git commands paint,
+A recitation takes form, a coding constraint.
+With "git clone," the journey commences,
+A mural of branches, where learning dispenses.
+
+Branches weave stories, like threads in the air,
+In Git's syntax, a poetic affair.
+Commits etch verses on the digital page,
+In the recitation's cadence, wisdom takes stage.
+
+Merge conflicts emerge, a plot twist unveiled,
+Resolved with finesse, as challenges are hailed.
+"Push" for progress, a collective ballet,
+In the Git recitation, where knowledge holds sway.
+
+"Pull" together, in a collaborative trance,
+In the symphony of commands, let learning enhance.
+So, let the classroom resonate, in Git's embrace,
+In the recitation's rhythm, where coding finds grace.
